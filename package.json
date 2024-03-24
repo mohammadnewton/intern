@@ -38,7 +38,7 @@
     "@sendgrid/mail": "^7.7.0",
     "angular-google-tag-manager": "^1.7.0",
     "aos": "^2.3.4",
-    "apollo-angular": "^4.2.0",
+    "apollo-angular": "^4.2.1",
     "dotenv": "^16.0.3",
     "fs": "0.0.1-security",
     "lodash": "^4.17.21",
